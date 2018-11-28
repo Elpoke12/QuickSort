@@ -1,0 +1,10 @@
+/Users/osmarenrique/Projects/QuickSort/QuickSort/bin/Release/netcoreapp2.0/QuickSort.deps.json
+/Users/osmarenrique/Projects/QuickSort/QuickSort/bin/Release/netcoreapp2.0/QuickSort.runtimeconfig.json
+/Users/osmarenrique/Projects/QuickSort/QuickSort/bin/Release/netcoreapp2.0/QuickSort.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/QuickSort/QuickSort/bin/Release/netcoreapp2.0/QuickSort.dll
+/Users/osmarenrique/Projects/QuickSort/QuickSort/bin/Release/netcoreapp2.0/QuickSort.pdb
+/Users/osmarenrique/Projects/QuickSort/QuickSort/obj/Release/netcoreapp2.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/QuickSort/QuickSort/obj/Release/netcoreapp2.0/QuickSort.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/QuickSort/QuickSort/obj/Release/netcoreapp2.0/QuickSort.AssemblyInfo.cs
+/Users/osmarenrique/Projects/QuickSort/QuickSort/obj/Release/netcoreapp2.0/QuickSort.dll
+/Users/osmarenrique/Projects/QuickSort/QuickSort/obj/Release/netcoreapp2.0/QuickSort.pdb
